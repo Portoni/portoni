@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=portoni&label=Profile%20views&color=0e75b6&style=flat" alt="portoni" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **Personal Branding**
+- 🔭 Atualmente estou trabalhando em **Data Science**
 
 - 🌱 Estou aprendendo **Machine Learning**
 
